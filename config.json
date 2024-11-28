@@ -1,0 +1,22 @@
+{
+  "device": {
+    "ips": ["192.168.10.14", "192.168.0.1","192.168.208.116"],
+    "port": 4370,
+    "dataReadInterval": 5,
+    "type": 1
+  },
+  "service": {
+    "monitorInterval": 10
+  },
+  "api": {
+    "dailyAttendance": "http://abc.com/attendance",
+    "serviceStatus": "http://ced.com/service-status",
+    "employeeMappedData": "http://xyz.com/mapped-data"
+  },
+  "companyId": "EtZNeo_24xsb6ehAsCCVfw2",
+  "biostar": {
+    "baseUrl": "http://118.179.168.182:3000/tna/",
+    "loginId": "99",
+    "password": "bangla2desh"
+  }
+}
